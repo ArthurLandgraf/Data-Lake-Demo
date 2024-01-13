@@ -1,4 +1,4 @@
-# **Data Lake Demo**
+# **Data Lake Demo com Airflow (via Google Cloud Composer)**
 ---
 
 O código a seguir representa uma demonstração de como configurar um data lake básico e com ferramentas open-source (com excessão dos serviços da Google Cloud). Essa demonstração tem seu valor comprovado, pois todo o código é baseado em uma implementação real de um trabalho onde tive que criar um date lake do zero sozinho.
