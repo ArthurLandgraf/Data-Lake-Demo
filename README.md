@@ -672,6 +672,6 @@ Por padrão, depois de adicionar uma nova DAG no bucket ela já vem pausada. Abr
 # Contribuidores
 ---
 
-Arthur Lee - Data Engineering Lead (last update: 13/01/2024)
+Arthur Lee - Data Analytics & Engineering Lead (last update: 13/01/2024)
 
 ...
